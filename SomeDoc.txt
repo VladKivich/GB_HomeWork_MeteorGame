@@ -1,2 +1,3 @@
-CW("My New Mode!");
-CW("Lost Data!");
+CW("My New Mode!"***);
+CW("Lost Data!"***);
+CW("Yo! Yo! Yo!"***)
